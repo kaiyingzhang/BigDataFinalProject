@@ -8,8 +8,9 @@ library(syuzhet)
 library(SnowballC)
 library(textcat)
 
-texts <-file("try1.txt","r")##texts is the whole file
-outfile <- file("result_4.7.txt", "w") 
+
+texts <-file("/Users/PP/Desktop/vs/basicData-A~Z/song_labels_R.txt","r")##texts is the whole file
+outfile <- file("/Users/PP/Desktop/vs/Output_R/songR_labels_R.txt", "w") 
 line<-readLines(texts,n=1)
 ##paste(line)
 while( length(line) != 0) {
@@ -103,25 +104,8 @@ while( length(line) != 0) {
   
   
 }
-
-print("done")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+print ("Done")
+##outfile <- file("/Users/PP/Desktop/vs/basicData-A~J/Done.txt", "w") 
 
 
 

@@ -36,4 +36,4 @@ To run the project on UI, you need to do more:
 
 3.Change the path to your v.xiaocase-0.0.1-SNAPSHOT.jar location in HelloWorld.java
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/kaiyingzhang/Music-Recommendation-System/blob/master/Picture1.png)

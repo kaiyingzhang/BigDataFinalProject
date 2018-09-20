@@ -4,7 +4,7 @@
 First, install Google SDK, and set up the Google cloud project.
 Second, enable Google Cloud Vision API and YouTube Data API v3.
 Third, install MogoDB and import the data to database
-Last, import v.xiaocase project as a Mavn porject.
+Last, import v.xiaocase project as a Maven porject.
 
 ## To use the Google API, you need to:
 1.Install the Google SDK, which connect your code to Google server.(https://cloud.google.com/sdk/)

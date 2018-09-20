@@ -1,4 +1,4 @@
-# INFO7250
+# Music Recommendation Website
 
 ## To use Our project, you need to:
 First, install Google SDK, and set up the Google cloud project.

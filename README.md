@@ -34,4 +34,6 @@ To run the project on UI, you need to do more:
 
 2.Place the v.xiaocase-0.0.1-SNAPSHOT.jar in your local computer
 
-3.Change the path to your v.xiaocase-0.0.1-SNAPSHOT.jar location in HelloWorld.java:
+3.Change the path to your v.xiaocase-0.0.1-SNAPSHOT.jar location in HelloWorld.java
+
+![alt text](http://url/to/img.png)
